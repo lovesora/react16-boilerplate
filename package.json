@@ -29,16 +29,22 @@
   },
   "homepage": "https://github.com/lovesora/react16-boilerplate#readme",
   "dependencies": {
+    "lx-js-lib": "^0.0.11",
     "node-sass-chokidar": "^0.0.3",
     "npm-run-all": "^4.1.2",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
+    "react-redux": "^5.0.6",
+    "react-router-dom": "^4.2.2",
     "react-scripts": "1.1.0",
+    "react-tap-event-plugin": "^3.0.2",
+    "redux": "^3.7.2",
     "serve": "^6.4.9",
     "source-map-explorer": "^1.5.0"
   },
   "devDependencies": {
-    "eslintrc": "^1.0.4"
+    "eslintrc": "^1.0.4",
+    "redux-devtools": "^3.4.1"
   },
   "proxy": {
     "/api": {
