@@ -1,3 +1,3 @@
-# react16-boilerplate
-upgrade to react16
+# React16-boilerplate
+Upgrade to react16, the former boilerplate is [react-boilerplate](https://github.com/lovesora/react-boilerplate)
 
